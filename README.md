@@ -4,7 +4,7 @@ Cloud and datacenter engineer with 18 years’ experience in solutions architect
 
 Open source projects and contribution examples:
 
-- [Azure Pipeline tasks for Azure Blueprints](Azure Pipeline tasks for Azure Blueprints) - Maintainer on the pipeline task for deploying Azure Blueprints from Azure DevOps. 
+- [Azure Pipeline tasks for Azure Blueprints](https://github.com/neilpeterson/azure-blueprints-pipeline-tasks) - Maintainer on the pipeline task for deploying Azure Blueprints from Azure DevOps. 
 - [Terraform Provider for Azure](https://github.com/terraform-providers/terraform-provider-azurerm/pull/2024) - Example contribution (GO) to the Terraform provider for Azure.
 - [Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure/pull/557) - Example contribution (GO) to the Open Service Broker for Azure.
 
