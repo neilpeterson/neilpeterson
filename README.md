@@ -1,16 +1,19 @@
-### Hi there 👋
+Cloud and datacenter engineer with 18 years’ experience in solutions architecture, deployment, and product management. Experience with both Microsoft and open-source software. Extensive experience engaging with customers in product development, consulting, and training.
 
-<!--
-**neilpeterson/neilpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## OSS Projects and contribution examples
 
-Here are some ideas to get you started:
+Open source projects and contribution examples:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Azure Pipeline tasks for Azure Blueprints](Azure Pipeline tasks for Azure Blueprints) - Maintainer on the pipeline task for deploying Azure Blueprints from Azure DevOps. 
+- [Terraform Provider for Azure](https://github.com/terraform-providers/terraform-provider-azurerm/pull/2024) - Example contribution (GO) to the Terraform provider for Azure.
+- [Open Service Broker for Azure](https://github.com/Azure/open-service-broker-azure/pull/557) - Example contribution (GO) to the Open Service Broker for Azure.
+
+## Fun projects
+
+Collection of fun coding projects:
+
+- [Twitter sentiment application](https://github.com/neilpeterson/twitter-sentiment-for-kubernetes) - Python application + Azure services to demonstrate scalable Kubernetes based solutions.
+- [Tweet factory for Kubernetes](https://github.com/neilpeterson/tweet-factory-operator) - implementation of the Twitter sentiment application as a SaaS solution built on top of Kubernetes custom resource definition / operator pattern.
+- [Azure Queue Autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - fun project to auto-scale Kubernetes deployments based on Azure storage queue length.
+- [Custom schedule for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
+- [Chat bot for finding food on the Microsoft Redmond campus](https://github.com/neilpeterson/msft-redmond-dining-bot) - Bot built on the Microsoft chatbot framework that finds food on the Microsoft Redmond campus.
