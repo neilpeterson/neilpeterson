@@ -15,5 +15,14 @@ Collection of fun coding projects:
 - [Twitter sentiment application](https://github.com/neilpeterson/twitter-sentiment-for-kubernetes) - Python application + Azure services to demonstrate scalable Kubernetes based solutions.
 - [Twitter SaaS operator for Kubernetes](https://github.com/neilpeterson/tweet-factory-operator) - implementation of the Twitter sentiment application as a SaaS solution built on top of Kubernetes CRD / operator.
 - [Azure Queue autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - auto-scale Kubernetes deployments based on Azure storage queue length.
-- [Custom scheduleer for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
+- [Custom scheduler for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
 - [Chat bot for finding food on the Microsoft Redmond campus](https://github.com/neilpeterson/msft-redmond-dining-bot) - Bot built on the Microsoft chatbot framework that finds food on the Microsoft Redmond campus.
+
+## Advocacy Examples
+
+Content, videos, and other things:
+
+- [Video: Azure Resource Manager Tools for VS Code Introduction](https://channel9.msdn.com/Shows/IT-Ops-Talk/Azure-Resource-Manager-Tools-for-VS-Code) - Self recorded.
+- [Video: Policy driven protection for Kubernetes Clusters](https://www.youtube.com/watch?v=2i0-_YaE68w) - WinOps London 2018.
+- [Video: Azure CLI Deep Dive](https://www.youtube.com/watch?v=KDUrDm6DczE) - Windows London 2017.
+- [Video: Consuming Cloud Service with the Kubernetes Service Catalog](https://www.youtube.com/watch?v=UHKD5ASQ9OM) - DevOps Days Warsaw 2018
