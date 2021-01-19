@@ -2,8 +2,8 @@ Cloud and datacenter engineer with 18 years’ experience in solutions architect
 
 ## Education
 
-- Bachelors of science, information systems technology: University of Houston
-- Certified Kubernetes Application Developer: Cloud Native Computing Foundation - [certification link](https://www.youracclaim.com/badges/3f7cd9b1-1efa-4869-9b52-19b6b81e9048/email)
+- Bachelors of science, information systems technology: University of Houston.
+- Certified Kubernetes Application Developer: Cloud Native Computing Foundation - [certification link](https://www.youracclaim.com/badges/3f7cd9b1-1efa-4869-9b52-19b6b81e9048/email).
 
 ## OSS Projects and contribution examples
 
