@@ -1,4 +1,4 @@
-Cloud and datacenter engineer with 18 years’ experience in solutions architecture, deployment, and product management. Experience with both Microsoft and open-source software. Extensive experience engaging with customers in product development, consulting, and training.
+Senior Site Reliability Engineer @ Microsoft
 
 ## Education
 
