@@ -1,4 +1,4 @@
-Senior Site Reliability Engineer @ Microsoft
+Principal Site Reliability Engineer @ Microsoft
 
 ## Education
 
