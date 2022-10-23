@@ -2,7 +2,7 @@ Principal Site Reliability Engineer @ Microsoft
 
 ## Education
 
-- Bachelors of science, information systems technology: University of Houston.
+- Bachelors in Computer Science: University of Houston.
 - [Certified Kubernetes Application Developer: Cloud Native Computing Foundation](https://www.youracclaim.com/badges/3f7cd9b1-1efa-4869-9b52-19b6b81e9048/email).
 - [HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/86c4dd36-c4e8-4b2d-9119-bc0f592acaaa).
 
