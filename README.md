@@ -30,7 +30,7 @@ Content, videos, and other things:
 
 - [Video: Azure Resource Manager Tools for VS Code Introduction](https://channel9.msdn.com/Shows/IT-Ops-Talk/Azure-Resource-Manager-Tools-for-VS-Code) - Self recorded.
 - [Video: Policy driven protection for Kubernetes Clusters](https://www.youtube.com/watch?v=2i0-_YaE68w) - WinOps London 2018.
-- [Video: Azure CLI Deep Dive](https://www.youtube.com/watch?v=KDUrDm6DczE) - Windows London 2017.
+- [Video: Azure CLI Deep Dive](https://www.youtube.com/watch?v=KDUrDm6DczE) - WinOps London 2017.
 - [Video: Consuming Cloud Service with the Kubernetes Service Catalog](https://www.youtube.com/watch?v=UHKD5ASQ9OM) - DevOps Days Warsaw 2018.
 - [Video: Accessing Key Vault secrets from an Azure Kubernetes Cluster](https://www.youtube.com/watch?v=XIahaT2tc3Y) - All around Azure stream.
 
