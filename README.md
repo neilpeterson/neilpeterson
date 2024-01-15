@@ -23,7 +23,7 @@ Sampling of fun projects:
 - [Twitter SaaS operator for Kubernetes](https://github.com/neilpeterson/tweet-factory-operator) - Sentiment app as a SaaS solution built on top of Kubernetes CRD.
 - [Azure Queue autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - auto-scale Kubernetes deployments based on Azure storage queue length.
 - [Custom scheduler for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
-- [Chat bot for finding food on the Microsoft Redmond campus](https://github.com/neilpeterson/msft-redmond-dining-bot) - Bot built on the Microsoft chatbot framework that finds food on the Microsoft Redmond campus.
+- [Chat bot for finding food on the Microsoft Redmond campus](https://github.com/neilpeterson/msft-redmond-dining-bot) - Chatbot for finding food on the MSFT Redmond campus.
 
 ## Advocacy Examples
 
