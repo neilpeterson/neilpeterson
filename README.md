@@ -21,8 +21,8 @@ Sampling of fun projects:
 - [Azure Alert / OpenAI command line tools](https://github.com/neilpeterson/azure-alert-command-line-tools) - CLI for exploring Azure Monitor Alerts with an OpenAI integrated interface.
 - [Twitter sentiment application](https://github.com/neilpeterson/twitter-sentiment-for-kubernetes/tree/dapr-integration) - Python + Dapr + Azure services to demonstrate scalable AKS based solutions.
 - [Twitter SaaS operator for Kubernetes](https://github.com/neilpeterson/tweet-factory-operator) - Sentiment app as a SaaS solution built on top of Kubernetes CRD.
-- [Azure Queue autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - auto-scale Kubernetes deployments based on Azure storage queue length.
-- [Custom scheduler for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
+- [Azure Queue autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - Auto-scale Kubernetes deployments based on Azure storage queue length.
+- [Custom scheduler for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - Scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
 - [MSFT Dining Bot - bot framework sample](https://github.com/neilpeterson/msft-redmond-dining-bot) - Chatbot for finding food on the MSFT Redmond campus.
 
 ## Advocacy Examples
