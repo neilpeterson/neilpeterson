@@ -19,7 +19,7 @@ Open source projects and contribution examples:
 Sampling of fun projects:
 
 - [Azure Alert / OpenAI command line tools](https://github.com/neilpeterson/azure-alert-command-line-tools) - CLI for exploring Azure Monitor Alerts with an OpenAI integrated interface.
-- [Twitter sentiment application](https://github.com/neilpeterson/twitter-sentiment-for-kubernetes/tree/dapr-integration) - Python applications with Dapr components + Azure services to demonstrate scalable AKS and contianer based solutions.
+- [Twitter sentiment application](https://github.com/neilpeterson/twitter-sentiment-for-kubernetes/tree/dapr-integration) - Python + Dapr + Azure services to demonstrate scalable AKS based solutions.
 - [Twitter SaaS operator for Kubernetes](https://github.com/neilpeterson/tweet-factory-operator) - implementation of the Twitter sentiment application as a SaaS solution built on top of Kubernetes CRD / operator.
 - [Azure Queue autoscaler for Kubernetes](https://github.com/neilpeterson/kubernetes-auto-scale-azure-crd) - auto-scale Kubernetes deployments based on Azure storage queue length.
 - [Custom scheduler for Kubernetes](https://github.com/neilpeterson/kubernetes-burst-scheduler) - scheduler that 'bursts' pods to a specific node base on a specified replica threshold.
